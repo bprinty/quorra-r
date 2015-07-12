@@ -1,0 +1,14 @@
+Package: quorra
+Type: Package
+Title: quorra
+Version: 0.0.1
+Date: 2015-01-01
+Author:  <bprinty@gmail.com>
+Maintainer:  <bprinty@gmail.com>
+Description: A reusable visualization API built on top of d3.js.
+License: Copyright (c) 
+Collate: quorra.R
+LazyLoad: yes
+LazyData: yes
+Depends: 
+Suggests: testthat, devtools
