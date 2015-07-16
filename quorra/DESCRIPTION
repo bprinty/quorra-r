@@ -10,5 +10,5 @@ License: Copyright (c)
 Collate: quorra.R
 LazyLoad: yes
 LazyData: yes
-Depends: 
+Depends: Rook
 Suggests: testthat, devtools
